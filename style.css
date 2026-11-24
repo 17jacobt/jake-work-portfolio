@@ -48,6 +48,7 @@ h2 span{color:var(--blue)}
 .mint{background:#b7d7bd}
 .lilac{background:#c0c9e6}
 .sand{background:#e5ccaa}
+.peach{background:#f3bbac}
 .browser{width:83%;position:absolute;top:13%;left:8.5%;overflow:hidden;border:1px solid #0003;border-radius:7px;box-shadow:0 14px 30px #1623283d;transform:rotate(-2deg);transform-origin:50% 60%;background:#101220;transition:transform .3s}
 .browser-bar{height:24px;background:#eeefef;color:#51545b;font: .75rem/24px var(--mono);text-align:center;position:relative}
 .browser-bar i{position:absolute;left:9px;top:10px;width:5px;height:5px;border-radius:50%;background:#8b8e94;box-shadow:8px 0 #a8abb0,16px 0 #b7b9be}
